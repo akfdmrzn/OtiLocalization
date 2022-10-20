@@ -36,6 +36,11 @@
 		BF38029A29013A8F006EA92F /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		BF38029B29013AD9006EA92F /* OtiLocalization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtiLocalization.swift; sourceTree = "<group>"; };
 		BF38029D290142D4006EA92F /* LocalizationBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationBundle.swift; sourceTree = "<group>"; };
+		BF38029F29015091006EA92F /* lt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lt; path = lt.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF3802A0290150A4006EA92F /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF3802A1290150B4006EA92F /* et */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = et; path = et.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF3802A2290150BB006EA92F /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF3802A3290150D3006EA92F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +176,11 @@
 				en,
 				Base,
 				ru,
+				lt,
+				lv,
+				et,
+				uk,
+				pl,
 			);
 			mainGroup = BF38027129013A40006EA92F;
 			productRefGroup = BF38027C29013A40006EA92F /* Products */;
@@ -236,6 +246,11 @@
 			children = (
 				BF38029829013A8C006EA92F /* en */,
 				BF38029A29013A8F006EA92F /* ru */,
+				BF38029F29015091006EA92F /* lt */,
+				BF3802A0290150A4006EA92F /* lv */,
+				BF3802A1290150B4006EA92F /* et */,
+				BF3802A2290150BB006EA92F /* uk */,
+				BF3802A3290150D3006EA92F /* pl */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
