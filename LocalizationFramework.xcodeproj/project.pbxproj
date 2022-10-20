@@ -14,6 +14,7 @@
 		BF38029729013A8C006EA92F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF38029929013A8C006EA92F /* Localizable.strings */; };
 		BF38029C29013AD9006EA92F /* OtiLocalization.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF38029B29013AD9006EA92F /* OtiLocalization.swift */; };
 		BF38029E290142D4006EA92F /* LocalizationBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF38029D290142D4006EA92F /* LocalizationBundle.swift */; };
+		BF3802A52901555E006EA92F /* SupportLanguages.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF3802A42901555E006EA92F /* SupportLanguages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		BF3802A1290150B4006EA92F /* et */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = et; path = et.lproj/Localizable.strings; sourceTree = "<group>"; };
 		BF3802A2290150BB006EA92F /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		BF3802A3290150D3006EA92F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF3802A42901555E006EA92F /* SupportLanguages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportLanguages.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				BF38029929013A8C006EA92F /* Localizable.strings */,
 				BF38029B29013AD9006EA92F /* OtiLocalization.swift */,
 				BF38029D290142D4006EA92F /* LocalizationBundle.swift */,
+				BF3802A42901555E006EA92F /* SupportLanguages.swift */,
 			);
 			path = LocalizationFramework;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF38028029013A40006EA92F /* LocalizationFramework.docc in Sources */,
+				BF3802A52901555E006EA92F /* SupportLanguages.swift in Sources */,
 				BF38029C29013AD9006EA92F /* OtiLocalization.swift in Sources */,
 				BF38029E290142D4006EA92F /* LocalizationBundle.swift in Sources */,
 			);
