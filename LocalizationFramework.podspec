@@ -6,9 +6,9 @@ Pod::Spec.new do |spec|
                     LocalizationFramework is a small educational framework!
                    DESC
   spec.homepage     = "http://EXAMPLE/LocalizationFramework"
-  s.author           = { 'akif.demirezen' => 'akif.demirezen@odeontechnology.com' }
+  s.author           = { 'akfdmrzn' => 'maddemirezen@gmail.com' }
   spec.platform     = :ios, "9.0"
-  s.source           = { :git => 'https://bitbucket.otiholding.com/scm/mob/ioslocalizationframework.git'}
+  s.source           = { :git => 'https://github.com/akfdmrzn/OtiLocalization.git'}
   spec.source_files = "LocalizationFramework/**/*.{swift,lproj,strings}"
   spec.swift_version = "5.1"
 end
