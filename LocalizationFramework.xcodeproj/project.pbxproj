@@ -11,6 +11,8 @@
 		BF38028629013A41006EA92F /* LocalizationFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF38027B29013A40006EA92F /* LocalizationFramework.framework */; };
 		BF38028B29013A41006EA92F /* LocalizationFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF38028A29013A41006EA92F /* LocalizationFrameworkTests.swift */; };
 		BF38028C29013A41006EA92F /* LocalizationFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = BF38027E29013A40006EA92F /* LocalizationFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF38029729013A8C006EA92F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF38029929013A8C006EA92F /* Localizable.strings */; };
+		BF38029C29013AD9006EA92F /* OtiLocalization.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF38029B29013AD9006EA92F /* OtiLocalization.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +31,9 @@
 		BF38027F29013A40006EA92F /* LocalizationFramework.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = LocalizationFramework.docc; sourceTree = "<group>"; };
 		BF38028529013A41006EA92F /* LocalizationFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizationFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF38028A29013A41006EA92F /* LocalizationFrameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationFrameworkTests.swift; sourceTree = "<group>"; };
+		BF38029829013A8C006EA92F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF38029A29013A8F006EA92F /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BF38029B29013AD9006EA92F /* OtiLocalization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtiLocalization.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +78,8 @@
 			children = (
 				BF38027E29013A40006EA92F /* LocalizationFramework.h */,
 				BF38027F29013A40006EA92F /* LocalizationFramework.docc */,
+				BF38029929013A8C006EA92F /* Localizable.strings */,
+				BF38029B29013AD9006EA92F /* OtiLocalization.swift */,
 			);
 			path = LocalizationFramework;
 			sourceTree = "<group>";
@@ -160,6 +167,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = BF38027129013A40006EA92F;
 			productRefGroup = BF38027C29013A40006EA92F /* Products */;
@@ -177,6 +185,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF38029729013A8C006EA92F /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF38028029013A40006EA92F /* LocalizationFramework.docc in Sources */,
+				BF38029C29013AD9006EA92F /* OtiLocalization.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,6 +225,18 @@
 			targetProxy = BF38028729013A41006EA92F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BF38029929013A8C006EA92F /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BF38029829013A8C006EA92F /* en */,
+				BF38029A29013A8F006EA92F /* ru */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		BF38028D29013A41006EA92F /* Debug */ = {
@@ -395,6 +417,7 @@
 		BF38029329013A41006EA92F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M7JA36V72Y;
@@ -410,6 +433,7 @@
 		BF38029429013A41006EA92F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M7JA36V72Y;
