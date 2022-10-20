@@ -8,11 +8,11 @@
 import Foundation
 
 extension Bundle {
-   public static var localizationFramework: Bundle {
+    public static func getLocalizationFrameworkBundle(nameKey: String = "en") -> Bundle {
         guard let localizationBundle = Bundle(identifier: "org.cocoapods.LocalizationFramework") else { return .main }
 
         guard
-            let bundlePath = localizationBundle.path(forResource: currentLanguage(of: localizationBundle),
+            let bundlePath = localizationBundle.path(forResource: nameKey,
                                                      ofType: "lproj"),
             let bundle = Bundle(path: bundlePath) else { return .main }
 
