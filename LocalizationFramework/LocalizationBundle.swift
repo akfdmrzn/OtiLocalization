@@ -8,7 +8,7 @@
 import Foundation
 
 extension Bundle {
-    static var localizationFramework: Bundle {
+   public static var localizationFramework: Bundle {
         guard let localizationBundle = Bundle(identifier: "org.cocoapods.LocalizationFramework") else { return .main }
 
         guard
@@ -19,7 +19,7 @@ extension Bundle {
         return bundle
     }
 
-    static func currentLanguage(of bundle: Bundle) -> String {
+    public static func currentLanguage(of bundle: Bundle) -> String {
         return String(Locale.current.identifier.prefix(2))
     }
 }
