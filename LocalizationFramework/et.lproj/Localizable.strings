@@ -194,7 +194,7 @@
 "You Have %@ Excursion" = "Teil on %@ Ekskursiooni";
 "You Have %@ Excursions" = "Teil on %@ Ekskursiooni";
 "You Have %@ Excursions 234"="Teil on %@ Ekskursiooni";
-"You Have %@ Excursions 5" "Teil on %@ Ekskursiooni";
+"You Have %@ Excursions 5" = "Teil on %@ Ekskursiooni";
 "Thanks! You rated" = "Suur tänu! Hinnang on antud.";
 "Success.You will receive password recovery e-mail" ="Päring on Edukas. Saate parooli taastamise e-kirja.";
 "We couldn’t find any excursions for you"  = "Me ei leidnud teile ühtegi ekskursiooni";
@@ -401,7 +401,7 @@
 //New Survey
 "Survey List" = "Küsitlusleht";
 "Select a Tourist" = "Vali Reisija";
-"Please select the hotel that you want to rate" "Valige hotell, et hinnata";
+"Please select the hotel that you want to rate" = "Valige hotell, et hinnata";
 "Overall" = "Üldiselt";
 "Next" = "Järgmine";
 "Previous" = "Eelmine";
@@ -430,8 +430,8 @@
 "In order to buy this excursion, you must enter your passport information. When you tap Continue , you will be directed to the page where you will enter required information." = "Selle ekskursiooni ostmiseks peate sisestama oma passi andmed. Vajutage nuppu Jätka , teid suunatakse teisele lehele.";
 "Add More Tourist" = "Lisa rohkem inimesi";
 "Select Date" = "Vali kuupäev";
-"Please fill the mandatory fields." = "Palun täitke kohustuslikud väljad."
-"Starts From" = "Algab al.";;
+"Please fill the mandatory fields." = "Palun täitke kohustuslikud väljad.";
+"Starts From" = "Algab al.";
 "Book" = "Broneeri";
 "Itinerary" = "Reisikirjeldus";
 "What's included" = "Hinna sees";
@@ -524,7 +524,7 @@
 "Excursion Price" = "Ekskursiooni hind";
 "Your excursion was cancelled.Refunds of the money will be made within 5 working days." = "Teie ekskursioon on tühistatud. Raha tagastatakse 5 tööpäeva jooksul.";
 "Your excursion was cancelled.Refunds of the money will be made within 5 working days after the original written application and the required documents have been received by KORAL TRAVEL REGIONS LLC, Kyiv, 01601, ul. 24, Bulvarno-Kudryavska street.You can download a template of application for return of funds at link." =  "Teie ekskursioon on tühistatud. Raha tagastatakse 5 tööpäeva jooksul pärast avalduse esitamist ja nõutavate dokumentide laekumist ettevõttele Coral Travel Estonia. Kasutage raha tagastamise taotlust.";
-"For a refund please contact your guide before the end of the tour." "Raha tagasi saamiseks võtke ühendust giidiga enne ekskursiooni lõppu.";
+"For a refund please contact your guide before the end of the tour." = "Raha tagasi saamiseks võtke ühendust giidiga enne ekskursiooni lõppu.";
 "Refunds of the money will be made within 5 working days." = "Raha tagastamine toimub 5 tööpäeva jooksul.";
 "Refunds of the money will be made within 5 working days after the original written application and the required documents have been received by KORAL TRAVEL REGIONS LLC, Kyiv, 01601, ul. 24, Bulvarno-Kudryavska street.You can download a template of application for return of funds at link.\n" =  "Raha tagastatakse 5 tööpäeva jooksul pärast avalduse esitamist ja nõutavate dokumentide laekumist ettevõttele Coral Travel Estonia. Kasutage raha tagastamise avaldust.\n";
 "Your excursion is finished!" = "Teie Ekskursioon on lõpetatud!";
