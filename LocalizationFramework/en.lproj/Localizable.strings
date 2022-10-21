@@ -361,6 +361,7 @@
 "Humidity" = "Humidity";
 "Continue without registration" = "Continue without registration";
 "Enter to your account or go through a simple registration procedure and you will not have to enter the tour details every time. You will also be able to view previous travels, select excursions and more!" = "Enter to your account or go through a simple registration procedure and you will not have to enter the tour details every time. You will also be able to view previous travels, select excursions and more!";
+"news and special offers" = "news and special offers";
 //Offline
 "Thank you for taking time to complete the survey. We will send your survey once you connect any network and open the app again automatically" = "Thank you for taking time to complete the survey. We will send your survey once you connect any network and open the app again automatically";
 "Your survey responses were submitted successfully! Thank you!" = "Your survey responses were submitted successfully! Thank you!";
@@ -568,6 +569,9 @@
 "Vehicle Window Number" = "Vehicle Window Number";
 "Pick Up Place" = "Pick Up Place";
 "Transfer Type" = "Transfer Type";
+
+
+
 // Extra bunlara bak en son
 "nettotal" = "Net Total";
 "I want to receive the newsletter about the offer and promotions. More information." = "Chcę otrzymywać Newsletter o ofercie i promocjach. Więcej informacji.";
