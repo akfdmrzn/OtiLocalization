@@ -6,6 +6,7 @@
   
 */
 "home" = "Home";
+"list" = "List";
 "menu" =  "Menu";
 "tips" = "Tips";
 "mytrips" = "My Trips";
@@ -19,7 +20,8 @@
 "phone" = "Phone";
 "mail" = "Mail";
 "continue" = "Continue";
-"login" = "Войти";
+"login" = "Login";
+"register" = "Register";
 "welcome" = "Welcome";
 "setting" = "Settings";
 "language" = "Change Language";
@@ -51,9 +53,10 @@
 "checkMyTrip" = "Check My Trip";
 "haveAnAccount" = "Have an account?";
 "loginHere" = "Login here";
+"dontHaveAnAccount" = "Нет учетной записи?";
+"registerHere" = "Зарегистрируйся тут";
 "password" =  "Password";
 "check" = "Check";
-"register" = "Register";
 "yourTripRating" = "Rate Your Trip";
 "rateYourExcursion" = "Rate Your Excursion";
 "review" = "Review";
@@ -65,11 +68,6 @@
 "contacts" =  "Contacts";
 "aboutUs" = "About Us";
 "settings" = "Settings";
-"russia" = "Russia";
-"ukraine" = "Ukraine";
-"poland" = "Poland";
-"belarus" = "Belarus";
-"georgia" = "Georgia";
 "searchTour" =  "Search Tour";
 "arrivalFlights" = "Arrival Flights";
 "departureFlights" = "Departure Flights";
@@ -122,7 +120,6 @@
 "area"="Area";
 "type"="Type";
 "country"="Country";
-"country"="Country";
 "Popular Excursions" = "Popular Excursions";
 "Your Agency" = "Your Agency";
 "call" = "Call";
@@ -131,15 +128,12 @@
 "Change" = "Change";
 "New Password (Again)" = "New Password (Again)";
 "Included Transfer" = "Included Transfer";
-"date" = "Date";
 "transferpickuptime" = "Transfer Pick Up Time";
 "Pick Up Point"  =  "Pick Up Point";
 "extras" = "Extras";
-"OTI Holding's global tour operator Coral Travel @ Russia, Turkey, Ukraine, Poland, Belarus and Georgia" = "OTI Holding's global tour operator Coral Travel @ Russia, Turkey, Ukraine, Poland, Belarus and Georgia";
-"aboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";
 "Password (Again)" = "Password (Again)";
 "Excursions You Have" = "Excursions You Have";
-"Rate Your Trip" = "Rate Your Trip"; //Buraya kadar rusça eklendi
+"Rate Your Trip" = "Rate Your Trip";
 "class" = "Class";
 "Please Enter Your Mail" = "Please Enter Your Mail";
 "Please Enter Your Name" = "Please Enter Your Name";
@@ -462,7 +456,6 @@
 "No, Thank You" = "No, Thank You";
 "Sex" = "Sex";
 "Series" = "Series";
-"Passport No" = "Passport No";
 "Document type" = "Document Type";
 "Name" = "Name";
 "Surname" = "Surname";
@@ -578,3 +571,31 @@
 "Pick Up Place" = "Pick Up Place";
 "Transfer Type" = "Transfer Type";
 
+
+
+//According To Coral Travel Russia
+"com.oti.coral.ruAboutUsLongDesc" = "Бренд Coral Travel представлен на рынке с 1995 года. Сегодня оператор занимает лидирующие позиции в туристической отрасли и позиционируется как марка надежности и качества. Собственные принимающие компании обслуживают клиентов Coral Travel в Турции, Египте, Греции, Испании, ОАЭ, Таиланде, Вьетнаме и Тунисе.\n\nТуроператор Coral Travel предлагает лучшие курорты и отели в 40 странах мира, среди которых Австрия, Андорра, Бахрейн, Беларусь, Болгария, Вьетнам, Греция, Грузия, Доминиканская Республика, Египет, Израиль, Индия, Индонезия, Иордания, Испания, Италия, Катар, Кения, Кипр, Китай, Куба, Маврикий, Мальдивы, Марокко, Мексика, ОАЭ, Россия, Сейшелы, Сингапур, Таиланд, Танзания, Тунис, Турция, Узбекистан, Хорватия, Черногория, Шри-Ланка. Идет постоянная работа по открытию новых направлений. Туроператор организует групповые и индивидуальные туры FIT на базе собственных чартерных программ и регулярных рейсов, занимается развитием инсентив-, конгресс-, спортивного и других видов туризма, а также активно продает авиабилеты в онлайн.\n\nПод брендом Coral Travel работают туроператоры не только в России, но и в Германии, Украине, Польше, Турции, Белaруси и Грузии. Программы авиаперевозок осуществляются на чартерной и регулярной основе из всех аэропортов Москвы и более чем из 47 городов Российской Федерации, 5 городов Украины, 2 городов Белaруси, 10 городов Польши, 2 городов Турции, 10 городов Германии.";
+//According To Coral Travel Lithuania
+"com.oti.coral.lithuaniaAboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";
+//According To Coral Travel Lithuania
+"com.oti.coral.lithuaniaAboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";
+//According To Coral Travel Latvia
+"com.oti.coral.latviaAboutUsLongDesc" = "Бренд Coral Travel представлен на рынке с 1995 года. Сегодня оператор занимает лидирующие позиции в туристической отрасли и позиционируется как марка надежности и качества. Собственные принимающие компании обслуживают клиентов Coral Travel в Турции, Египте, Греции, Испании, ОАЭ, Таиланде, Вьетнаме и Тунисе.\n\nТуроператор Coral Travel предлагает лучшие курорты и отели в 40 странах мира, среди которых Австрия, Андорра, Бахрейн, Беларусь, Болгария, Вьетнам, Греция, Грузия, Доминиканская Республика, Египет, Израиль, Индия, Индонезия, Иордания, Испания, Италия, Катар, Кения, Кипр, Китай, Куба, Маврикий, Мальдивы, Марокко, Мексика, ОАЭ, Россия, Сейшелы, Сингапур, Таиланд, Танзания, Тунис, Турция, Узбекистан, Хорватия, Черногория, Шри-Ланка. Идет постоянная работа по открытию новых направлений. Туроператор организует групповые и индивидуальные туры FIT на базе собственных чартерных программ и регулярных рейсов, занимается развитием инсентив-, конгресс-, спортивного и других видов туризма, а также активно продает авиабилеты в онлайн.\n\nПод брендом Coral Travel работают туроператоры не только в России, но и в Германии, Украине, Польше, Турции, Белaруси и Грузии. Программы авиаперевозок осуществляются на чартерной и регулярной основе из всех аэропортов Москвы и более чем из 47 городов Российской Федерации, 5 городов Украины, 2 городов Белaруси, 10 городов Польши, 2 городов Турции, 10 городов Германии.";
+//According To Coral Travel Estonia
+"com.oti.coral.eeAboutUsLongDesc" = "Coral Travel входит в группу компаний OTI Holding, объединяющую 27 компаний в 16 странах мира. В сотрудничестве с компаниями OTI Holding Group мы гарантируем высочайший уровень сервиса и качественный отдых для наших клиентов. Одним из преимуществ Coral Travel являются наши офисы и сотрудники, которые очень хорошо знают страну и туристический сектор. Наши опытные специалисты по туризму - гиды, персонал гостиницы - готовы принять гостей после ослабления условий карантина. Международная туристическая группа OTI Holding работает уже 29 лет и хорошо зарекомендовала себя на мировом туристическом рынке. Компании, входящие в группу, организуют поездки в 90 регионов, 40 стран мира, на 5 континентах. Как обеспечить исключительное качество обслуживания? На курортах наши представители заботятся о наших гостях в тесном сотрудничестве с нашими надежными партнерами, включая Odeon Tours. Мы постоянно следим за удовлетворенностью наших клиентов, анализируем результаты и улучшаем качество наших услуг.";
+//According To Coral Travel Belarus
+"com.oti.coral.belarusAboutUsLongDesc" = "Компания Coral Travel Беларусь начала свою деятельность в 2010 году и на сегодняшний день является одним из лидеров туристического бизнеса страны, позиционируется, как марка надежности и качества.
+Coral Travel Беларусь – это многопрофильный туроператор, который предлагает своим клиентам отдых более, чем в 30 странах в разных уголках планеты.
+Компания Coral Travel принадлежит крупной международной структуре OTI Holding.
+27 компаний в 16 странах и 7000 профессиональных сотрудников холдинга OTI ведут свою деятельность в сфере туризма, начиная с 1992 года в наиболее популярных направлениях, таких как Турция, Египет, Греция, Испания, ОАЭ, Таиланд, Вьетнам и Тунис.
+Холдинг OTI ежегодно продолжает расти и развиваться на новых ранках и направлениях, не поступаясь качеством и удовлетворенностью клиентов.
+Бизнес всех участников группы OTI развивается быстрыми темпами благодаря использованию современных высоких технологий, профессиональному подходу к делу и постоянному контролю над качеством.
+Среди эксклюзивных предложений Coral Travel особенного внимания заслуживают: семейный отдых на базе концепции Sun Family Club, которая успешно работает в 6 странах, а также концепция VIP отдыха – Coral Elite Service.
+В основе успеха бренда Coral Travel лежат высокий профессионализм и творческий подход к делу сотрудников компании. Это помогает компании совершенствоваться и двигаться вперед, к новым вершинам. Что касается прямого потребителя, то с момента создания компании основной целью деятельности Coral Travel является максимальное удовлетворение потребностей всех категорий населения.
+Coral Travel будет с вами с момента выбора страны до бережной распаковки сувениров. Мы знаем, куда поехать с ребенком в апреле, как выгоднее всего звонить из Доминиканы в Беларусь, где в Таиланде взять на прокат мотороллер, чем кормить обезьян в зоопарках, какие прививки делать перед поездкой в Танзанию, когда созревает кумкват и, что нужно делать в экстренной ситуации.";
+//According To Coral Travel Poland
+"com.oti.coral.polandAboutUsLongDesc" = "Бренд Coral Travel представлен на рынке с 1995 года. Сегодня оператор занимает лидирующие позиции в туристической отрасли и позиционируется как марка надежности и качества. Собственные принимающие компании обслуживают клиентов Coral Travel в Турции, Египте, Греции, Испании, ОАЭ, Таиланде, Вьетнаме и Тунисе.\n\nТуроператор Coral Travel предлагает лучшие курорты и отели в 40 странах мира, среди которых Австрия, Андорра, Бахрейн, Беларусь, Болгария, Вьетнам, Греция, Грузия, Доминиканская Республика, Египет, Израиль, Индия, Индонезия, Иордания, Испания, Италия, Катар, Кения, Кипр, Китай, Куба, Маврикий, Мальдивы, Марокко, Мексика, ОАЭ, Россия, Сейшелы, Сингапур, Таиланд, Танзания, Тунис, Турция, Узбекистан, Хорватия, Черногория, Шри-Ланка. Идет постоянная работа по открытию новых направлений. Туроператор организует групповые и индивидуальные туры FIT на базе собственных чартерных программ и регулярных рейсов, занимается развитием инсентив-, конгресс-, спортивного и других видов туризма, а также активно продает авиабилеты в онлайн.\n\nПод брендом Coral Travel работают туроператоры не только в России, но и в Германии, Украине, Польше, Турции, Белaруси и Грузии. Программы авиаперевозок осуществляются на чартерной и регулярной основе из всех аэропортов Москвы и более чем из 47 городов Российской Федерации, 5 городов Украины, 2 городов Белaруси, 10 городов Польши, 2 городов Турции, 10 городов Германии.";
+//According To Coral Travel Sunmar
+"com.oti.sunmarAboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";
+//According To Coral Travel Ukraine
+"com.oti.coral.uaAboutUsLongDesc" = "Бренд Coral Travel представлен на рынке с 1995 года. Сегодня оператор занимает лидирующие позиции в туристической отрасли и позиционируется как марка надежности и качества. Собственные принимающие компании обслуживают клиентов Coral Travel в Турции, Египте, Греции, Испании, ОАЭ, Таиланде, Вьетнаме и Тунисе.\n\nТуроператор Coral Travel предлагает лучшие курорты и отели в 40 странах мира, среди которых Австрия, Андорра, Бахрейн, Беларусь, Болгария, Вьетнам, Греция, Грузия, Доминиканская Республика, Египет, Израиль, Индия, Индонезия, Иордания, Испания, Италия, Катар, Кения, Кипр, Китай, Куба, Маврикий, Мальдивы, Марокко, Мексика, ОАЭ, Россия, Сейшелы, Сингапур, Таиланд, Танзания, Тунис, Турция, Узбекистан, Хорватия, Черногория, Шри-Ланка. Идет постоянная работа по открытию новых направлений. Туроператор организует групповые и индивидуальные туры FIT на базе собственных чартерных программ и регулярных рейсов, занимается развитием инсентив-, конгресс-, спортивного и других видов туризма, а также активно продает авиабилеты в онлайн.\n\nПод брендом Coral Travel работают туроператоры не только в России, но и в Германии, Украине, Польше, Турции, Белaруси и Грузии. Программы авиаперевозок осуществляются на чартерной и регулярной основе из всех аэропортов Москвы и более чем из 47 городов Российской Федерации, 5 городов Украины, 2 городов Белaруси, 10 городов Польши, 2 городов Турции, 10 городов Германии.";
