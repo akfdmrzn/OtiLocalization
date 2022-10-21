@@ -570,8 +570,14 @@
 "Vehicle Window Number" = "Vehicle Window Number";
 "Pick Up Place" = "Pick Up Place";
 "Transfer Type" = "Transfer Type";
-
-
+"nettotal" = "Net Total";
+"I want to receive the newsletter about the offer and promotions. More information." = "Chcę otrzymywać Newsletter o ofercie i promocjach. Więcej informacji.";
+"I agree to receive commercial information by means of electronic communication, within the meaning of the Act of 18 July 2002 on the provision of electronic services (Journal of Laws of 2002, No. 144, item 1204, as amended)." = "Wyrażam zgodę na otrzymywanie informacji handlowych za pomocą środków komunikacji elektronicznej, w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2002 r., Nr 144, poz. 1204 ze zm.).";
+"I agree to be contacted by phone. More information." = "Wyrażam zgodę na kontakt telefoniczny. Więcej informacji.";
+"I agree to be contacted by phone, to the telephone number provided by me, for the purposes of direct marketing, within the meaning of the Act of 16 July 2004 Telecommunications Law (Journal of Laws of 2004, No. 171, item 1800, as amended)." = "Wyrażam zgodę na kontakt telefoniczny, na podany przeze mnie numer telefonu, dla celów marketingu bezpośredniego, w rozumieniu ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2004 r., Nr 171, poz. 1800 ze zm.).";
+"More information." = "Więcej informacji.";
+"Changes will be saved, do you confirm?" = "Zmiany zostaną zapisane, czy potwierdzasz?";
+"Terms of services in the mobile application" = "Warunki świadczenia usług drogą elektroniczną";
 
 //According To Coral Travel Russia
 "com.oti.coral.ruAboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";

@@ -569,19 +569,14 @@
 "Vehicle Window Number" = "Vehicle Window Number";
 "Pick Up Place" = "Pick Up Place";
 "Transfer Type" = "Transfer Type";
-
-
-
-// Extra bunlara bak en son
 "nettotal" = "Net Total";
-"I want to receive the newsletter about the offer and promotions. More information." = "Chcę otrzymywać Newsletter o ofercie i promocjach. Więcej informacji.";
-"I agree to receive commercial information by means of electronic communication, within the meaning of the Act of 18 July 2002 on the provision of electronic services (Journal of Laws of 2002, No. 144, item 1204, as amended)." = "Wyrażam zgodę na otrzymywanie informacji handlowych za pomocą środków komunikacji elektronicznej, w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2002 r., Nr 144, poz. 1204 ze zm.).";
-"I agree to be contacted by phone. More information." = "Wyrażam zgodę na kontakt telefoniczny. Więcej informacji.";
-"I agree to be contacted by phone, to the telephone number provided by me, for the purposes of direct marketing, within the meaning of the Act of 16 July 2004 Telecommunications Law (Journal of Laws of 2004, No. 171, item 1800, as amended)." = "Wyrażam zgodę na kontakt telefoniczny, na podany przeze mnie numer telefonu, dla celów marketingu bezpośredniego, w rozumieniu ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2004 r., Nr 171, poz. 1800 ze zm.).";
-"More information." = "Więcej informacji.";
-"Changes will be saved, do you confirm?" = "Zmiany zostaną zapisane, czy potwierdzasz?";
-"Terms of services in the mobile application" = "Warunki świadczenia usług drogą elektroniczną";
-
+"I want to receive the newsletter about the offer and promotions. More information." = "I want to receive the newsletter about the offer and promotions. More information.";
+"I agree to receive commercial information by means of electronic communication, within the meaning of the Act of 18 July 2002 on the provision of electronic services (Journal of Laws of 2002, No. 144, item 1204, as amended)." = "I agree to receive commercial information by means of electronic communication, within the meaning of the Act of 18 July 2002 on the provision of electronic services (Journal of Laws of 2002, No. 144, item 1204, as amended).";
+"I agree to be contacted by phone. More information." = "I agree to be contacted by phone. More information.";
+"I agree to be contacted by phone, to the telephone number provided by me, for the purposes of direct marketing, within the meaning of the Act of 16 July 2004 Telecommunications Law (Journal of Laws of 2004, No. 171, item 1800, as amended)." = "I agree to be contacted by phone, to the telephone number provided by me, for the purposes of direct marketing, within the meaning of the Act of 16 July 2004 Telecommunications Law (Journal of Laws of 2004, No. 171, item 1800, as amended).";
+"More information." = "More information.";
+"Changes will be saved, do you confirm?" = "Changes will be saved, do you confirm?";
+"Terms of services in the mobile application" = "Terms of services in the mobile application";
 
 
 //According To Coral Travel Russia
