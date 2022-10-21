@@ -53,8 +53,8 @@
 "checkMyTrip" = "Check My Trip";
 "haveAnAccount" = "Have an account?";
 "loginHere" = "Login here";
-"dontHaveAnAccount" = "Нет учетной записи?";
-"registerHere" = "Зарегистрируйся тут";
+"dontHaveAnAccount" = "Нет учетной записи?"; // buna bak
+"registerHere" = "Зарегистрируйся тут"; // buna bak
 "password" =  "Password";
 "check" = "Check";
 "yourTripRating" = "Rate Your Trip";
@@ -339,7 +339,6 @@
 "Meeting Place" = "Meeting Place";
 "Work Schedule" = "Work Schedule";
 "Meet My Guide" = "Meet My Guide";
-"Activities" = "Activities";
 "Travel profitably with CoralBonus!\n\nActivate your card now and get up to 30,000 bonuses for buying a tour and up to 80,000 bonuses for making purchases from program partners!\n" = "Travel profitably with CoralBonus!\n\nActivate your card now and get up to 30,000 bonuses for buying a tour and up to 80,000 bonuses for making purchases from program partners!\n";
 "1 bonus = 1 ruble" = "1 bonus = 1 ruble";
 "Up to 100% of the travel cost can be paid with active bonuses" = "Up to 100% of the travel cost can be paid with active bonuses";
@@ -385,7 +384,6 @@
 "Save" = "Save";
 "SaveEdit" = "Save";
 "You didn't save your suitcase! Do you want to continue?" = "You didn't save your suitcase! Do you want to continue?";
-"Yes" = "Yes";
 "Activities" = "Activities";
 "My Guide" = "My Guide";
 "Saved Items" = "Saved Items";
