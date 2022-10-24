@@ -10,7 +10,7 @@ import Foundation
 extension String {
     public func localized(withComment comment: String = "") -> String {
         return Bundle.main.localizedString(forKey: self,
-                                           value: "**\(self)**",
+                                           value: "\(self)",
                                            table: nil)
     }
 }
