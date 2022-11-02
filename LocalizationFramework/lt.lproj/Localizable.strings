@@ -581,7 +581,8 @@
 "More information." = "More information.";
 "Changes will be saved, do you confirm?" = "Changes will be saved, do you confirm?";
 "Terms of services in the mobile application" = "Terms of services in the mobile application";
-
+"No free place left for the selected date. Please try another date" = "Pasirinktai datai laisvų vietų nebeliko. Bandykite kitą";
+"Unfortunately places left only for %@ tourist(s) for the selected date. You can try another date" = "Deja, vietų liko tik %@ turistui pasirinktai datai. Pasirinkite kitą datą.";
 
 
 //According To Coral Travel Russia

@@ -578,6 +578,9 @@
 "More information." = "Więcej informacji.";
 "Changes will be saved, do you confirm?" = "Zmiany zostaną zapisane, czy potwierdzasz?";
 "Terms of services in the mobile application" = "Warunki świadczenia usług drogą elektroniczną";
+"No free place left for the selected date. Please try another date" = "W wybranym terminie nie ma już miejsc. Wybierz inną datę.";
+"Unfortunately places left only for %@ tourist(s) for the selected date. You can try another date" = "Niestety w wybranym terminie dostępnych jest tylko %@ miejsc. Wybierz inny termin";
+
 
 //According To Coral Travel Russia
 "com.oti.coral.ruAboutUsLongDesc" = "As of 1994, Coral Travel started its activities in Moscow and took its place among the most reliable brands in the Russian, Ukrainian and Belorussian markets via its sector experience and service concept of good quality.\n\nThe central office of Coral Travel which is the main partner of OTI Holding in Russia is in Moscow and it performs its activities in 28 cities of Russia, performs in 5 cities of Ukraine and its central office is in Kiev, performs in 8 cities of Poland and its central office is in Warsaw, and performs in Belarus/Minsk, Georgia/Tbilisi and Turkey with a total of 44 offices.\n\nCoral Travel is among the leader tour operators of the countries it is located at and performs flights from 35 cities of Russia, 5 cities of Ukraine, 10 cities from Poland, Belarus (Minsk), Turkey and Georgia to 65 destinations in 38 countries. The countries to which Coral Travel sends tourists are: Turkey, Spain, Egypt, Thailand, Greece, Tunisia, Russia, Morocco, Israel, United Arab Emirates, China, Cuba, Dominican Republic, Indonesia (Bali), Maldive Islands, Vietnam, Seychelles, Sri Lanka, Singapore, India (Goa), Tanzania (Zanzibar), Cambodia, Mauritius, Jordan, Mexico, Austria, Bulgaria and Andorra.";
